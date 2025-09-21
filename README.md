@@ -1,8 +1,8 @@
 # Expense-Insights-Frontend
 
 <p align="center">
-<a href="https://github.com/RohanAC09/Expense-Insights-Frontend" target="blank"><img width="380" height="250" alt="Screenshot from 2025-09-21 18-29-27" src="https://github.com/user-attachments/assets/af5decc5-7702-4291-b38b-f7a3d1c9b8f0" /></a>
-<a href="https://github.com/RohanAC09/Expense-Insights-Frontend" target="blank"><img width="372" height="200" alt="Screenshot from 2025-09-21 18-28-11" src="https://github.com/user-attachments/assets/bcfd8afe-0815-456e-aa8e-9c4eb0d1d938" /></a>
+<a href="https://github.com/RohanAC09/Expense-Insights-Frontend" target="blank"><img width="478" height="250" alt="Screenshot from 2025-09-21 18-29-27" src="https://github.com/user-attachments/assets/af5decc5-7702-4291-b38b-f7a3d1c9b8f0" /></a>
+<a href="https://github.com/RohanAC09/Expense-Insights-Frontend" target="blank"><img width="466" height="250" alt="Screenshot from 2025-09-21 18-28-11" src="https://github.com/user-attachments/assets/bcfd8afe-0815-456e-aa8e-9c4eb0d1d938" /></a>
   <!-- <img width="855" height="447" alt="Screenshot from 2025-09-21 18-29-27" src="https://github.com/user-attachments/assets/af5decc5-7702-4291-b38b-f7a3d1c9b8f0" />
   <img width="863" height="462" alt="Screenshot from 2025-09-21 18-28-11" src="https://github.com/user-attachments/assets/bcfd8afe-0815-456e-aa8e-9c4eb0d1d938" />
 <img width="838" height="437" alt="Screenshot from 2025-09-21 18-31-43" src="https://github.com/user-attachments/assets/d335659a-ac3b-4556-b65c-bb0ef3c8cb66" /> -->
