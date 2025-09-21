@@ -1,22 +1,22 @@
-// FileName: App.js
+import React from 'react'
+import { Routes, Route, Navigate } from 'react-router-dom'
+import Login from './components/Login'
+import Dashboard from './components/Dashboard'
+import ProtectedRoute from './components/ProtectedRoute'
 
-import styled from "styled-components";
-import Tracker from "./components/Tracker";
-import GlobalStyles from "./globalStyles";
-
-const Main = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-`;
-
-const App = () => {
+export default function App() {
   return (
-    <Main>
-      <GlobalStyles />
-      <Tracker />
-    </Main>
+    <Routes>
+      <Route path="/login" element={<Login />} />
+      <Route
+        path="/"
+        element={
+          <ProtectedRoute>
+            <Dashboard />
+          </ProtectedRoute>
+        }
+      />
+      <Route path="*" element={<Navigate to="/login" replace />} />
+    </Routes>
   )
 }
-
-export default App;
